@@ -1,4 +1,5 @@
 .centred { position: absolute;
+          text-align: right;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);}
@@ -9,8 +10,23 @@
     transform: translate(-50%, -50%);}
 
 input.test1:focus {
-background-color: orange; 
+background-color: rgb(219, 126, 126); 
 }
 input.test2:focus {
-background-color: khaki; 
+background-color: rgb(212, 177, 88); 
+}
+input.test3:focus {
+background-color: rgb(240, 230, 120); 
+}
+input.test4:focus {
+background-color: rgb(138, 181, 119); 
+}
+input.test5:focus {
+background-color: rgb(169, 218, 220); 
+}
+input.test6:focus {
+background-color: rgb(97, 107, 229); 
+}
+input.test7:focus {
+background-color: rgb(161, 129, 229); 
 }
