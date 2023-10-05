@@ -1,5 +1,5 @@
 .centred { position: absolute;
-          text-align: right;
+text-align: right;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);}
